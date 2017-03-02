@@ -1,0 +1,10 @@
+[
+    {
+        "repository": "android_device_samsung_exynos5420-common",
+        "target_path": "device/samsung/exynos5420-common"
+    },
+    {
+        "repository": "android_device_samsung_n1awifi",
+        "target_path": "device/samsung/n1awifi"
+    }
+]
