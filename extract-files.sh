@@ -17,7 +17,7 @@
 
 set -e
 
-export DEVICE=n2awifi
+export DEVICE=n1awifi
 export DEVICE_COMMON=exynos5420-common
 export VENDOR=samsung
 export INITIAL_COPYRIGHT_YEAR=2016
